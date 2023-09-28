@@ -1,5 +1,5 @@
 # Nueva FTC
-This repository contains the Nueva FTC code for the POWERPLAY season.
+This repository contains the Nueva FTC code for the CENTERSTAGE season.
 
 ## Starting Up the Robot
 * Connect a battery to the Control Hub
